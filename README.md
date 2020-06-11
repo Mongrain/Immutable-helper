@@ -2,7 +2,7 @@
 
 > 可能对你有用，可能你不想用
 
-<img src="./demo.gif" height="100px" />
+<img src="./demo.gif" height="300px" />
 
 ## Usage 
 
