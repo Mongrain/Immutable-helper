@@ -6,5 +6,6 @@ Object.defineProperty(Object.prototype, 'log', {
             console.log('Normal >> ', this)
         }
         return;
-    }
+    },
+    set() {}
 });
